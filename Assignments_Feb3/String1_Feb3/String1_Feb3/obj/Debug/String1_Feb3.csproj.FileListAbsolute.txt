@@ -1,0 +1,8 @@
+C:\Users\XC668EV\source\repos\String1_Feb3\String1_Feb3\bin\Debug\String1_Feb3.exe.config
+C:\Users\XC668EV\source\repos\String1_Feb3\String1_Feb3\bin\Debug\String1_Feb3.exe
+C:\Users\XC668EV\source\repos\String1_Feb3\String1_Feb3\bin\Debug\String1_Feb3.pdb
+C:\Users\XC668EV\source\repos\String1_Feb3\String1_Feb3\obj\Debug\String1_Feb3.csproj.AssemblyReference.cache
+C:\Users\XC668EV\source\repos\String1_Feb3\String1_Feb3\obj\Debug\String1_Feb3.csproj.SuggestedBindingRedirects.cache
+C:\Users\XC668EV\source\repos\String1_Feb3\String1_Feb3\obj\Debug\String1_Feb3.csproj.CoreCompileInputs.cache
+C:\Users\XC668EV\source\repos\String1_Feb3\String1_Feb3\obj\Debug\String1_Feb3.exe
+C:\Users\XC668EV\source\repos\String1_Feb3\String1_Feb3\obj\Debug\String1_Feb3.pdb
